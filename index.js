@@ -95,6 +95,7 @@ const rtcEvent = async (event, { logger, csClient, storageClient }) => {
             beep_stop: true,
             detect_speech: false,
             split: true,
+            multitrack: true,
             channels: 2,
           },
         },
