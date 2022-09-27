@@ -54,7 +54,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You'll have to create at least 3 legs on the conversation (preferrably 2 IP and 1 PSTN leg). You'll have to do 2 outbound calls using the react client above and 1 inbound call on the LVN attached to the application.
 
-The legs will be transferred to the same conversation, a voice will be heared and the recording will start.
+The legs will be transferred to the same conversation, a voice will be heard and the recording will start.
 
 The recording is using the multitrack functionality with 2 channels (1 channel will record the first leg and the other one the rest of them).
 
